@@ -1,6 +1,6 @@
 #!/bin/bash
 # run.sh
-　
+
 echo "Deleting all remaining zip files..."
 rm -rf *.zip
 echo "Deleting all remaining bro directories..."
